@@ -1,0 +1,15 @@
+{
+  "name": "video-app-backend",
+  "version": "1.0.0",
+  "description": "A backend application for video player application like Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video-player",
+    "youtube"
+  ],
+  "author": "Navneet Sharma",
+  "license": "ISC"
+}
